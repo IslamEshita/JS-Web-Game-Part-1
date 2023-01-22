@@ -10,3 +10,7 @@ function newImage(imageSrc, left, bottom)
 
 newImage('assets/green-character.gif', '100px', '100px');
 newImage('assets/pine-tree.png', '450px', '200px');
+newImage('assets/tree.png', '200px', '300px')
+newImage('assets/pillar.png', '350px', '100px')
+newImage('assets/crate.png', '150px', '200px')
+newImage('assets/well.png', '500px', '425px')
